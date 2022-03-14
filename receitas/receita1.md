@@ -23,6 +23,7 @@
   - [x] task cheia
   - [] Pave
   - [] salada de frutas
+  - [] sorvete
 
 
 
