@@ -22,6 +22,7 @@
   - [ ] task vazia
   - [x] task cheia
   - [] Pave
+  - [] salada de frutas
 
 
 
